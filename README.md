@@ -1,1 +1,1 @@
-my finalcapston priject using react.js
+my finalcapston project using react.js
